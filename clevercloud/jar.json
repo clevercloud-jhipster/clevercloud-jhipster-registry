@@ -1,0 +1,5 @@
+{
+  "deploy": {
+    "jarName": "jhipster-registry-3.2.4.war"
+  }
+}
