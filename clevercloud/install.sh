@@ -1,1 +1,1 @@
-wget https://github.com/jhipster/jhipster-registry/releases/download/v3.2.4/jhipster-registry-3.2.4.war
+wget https://github.com/jhipster/jhipster-registry/releases/download/v4.0.6/jhipster-registry-4.0.6.war
